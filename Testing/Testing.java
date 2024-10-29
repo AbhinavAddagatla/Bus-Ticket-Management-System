@@ -1,4 +1,4 @@
-package BusTicketSystem.Test;
+package BusTicketSystem.Testing;
 
 import BusTicketSystem.Exceptions.TicketAlreadyExistException;
 import BusTicketSystem.Service.*;
